@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701808418214",
+    "firebase_url": "https://gesturekeyboard1.firebaseio.com",
+    "project_id": "gesturekeyboard1",
+    "storage_bucket": "gesturekeyboard1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701808418214:android:3dafc3e20b1aa516",
+        "android_client_info": {
+          "package_name": "com.example.annafaytelson.gesturekeyboard1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701808418214-2ok3ojt7k8dnm58p7cngqeo4cu30qpac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.annafaytelson.gesturekeyboard1",
+            "certificate_hash": "9a09185fc88a7d45a22ea04797e4419815a4ce4f"
+          }
+        },
+        {
+          "client_id": "701808418214-u2u3s5vdakgdgvrtbn4cc6setp6t5dn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6zBdJAOtWeh3QV0I4rxAE3baAfc6RUXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701808418214-u2u3s5vdakgdgvrtbn4cc6setp6t5dn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

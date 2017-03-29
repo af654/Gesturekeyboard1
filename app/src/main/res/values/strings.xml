@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gesturekeyboard1</string>
+    <string name="action_settings">AttackGestureCollect</string>
+
+    <string name="file_message">Enter Filename</string>
+    <string name="rec_but_msg">Create</string>
+    <string name="path_message">Enter the 3-digit participant number here!</string>
+    <string name="session2Progress">Session2Progress</string>
+    <string name="session2Progress_user">Session2Progress_User</string>
+    <string name="isInitialAppLaunch"></string>
+    <string name="isInitialAppLaunch1"></string>
+
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">An unexpected error occurred.\nSorry for the inconvenience.\n Please press the button below to continue this study.</string>
+    <string name="customactivityoncrash_error_activity_restart_app">Continue Study</string>
+
+    <string name="addtemplatesnote">Please draw the gesture which name shows as below:</string>
+</resources>
